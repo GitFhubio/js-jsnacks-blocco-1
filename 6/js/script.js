@@ -1,3 +1,5 @@
+//
+// 6: Stampa il cubo dei primi N numeri, dove N è un numero indicato dall’utente.
 
 var quanti = parseInt(prompt("Di quanti numeri vuoi ottenere il cubo? "));
 if(quanti>10){
